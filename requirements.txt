@@ -1,6 +1,6 @@
 Werkzeug==0.15.5
 Flask==1.1.1
-numpy==1.18.3
+numpy==1.22.0
 Keras==2.2.5
 gevent==1.4.0
 gunicorn==20.0.4
